@@ -11,7 +11,7 @@ This assignment **contains** day 2 assignment **Both** **Assignment-1** & **Assi
 **Step 7:** Apply the **pattern matching.** When we start applying pattern matching it will **automatically call the unapply method. **  
 **Step 8:** After that add the **scalatest dependencies** in build.sbt file.   
 **Step 9:** Create a Test Class in **src/test/scala/com.knoldus**. Inside the test class extend the AnyFlatSpec with Matchers Class and import the scalatest package in that test class.   
-**Step 10:** Inside the test class **create instance of Class** in each test case with different url 
+**Step 10:** Inside the test class **create instance of Class** in each test case with different url         
 **Step 11:** After that apply the pattern match it fetch the protocol, domain, path and check with expected output by assert.   
 **Step 12:** In terminal run the command **sbt test** it show the result that test case is passed or fail.
 
